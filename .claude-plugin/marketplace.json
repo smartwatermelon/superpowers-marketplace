@@ -13,7 +13,8 @@
       "name": "superpowers",
       "source": {
         "source": "url",
-        "url": "https://github.com/obra/superpowers.git"
+        "url": "https://github.com/smartwatermelon/superpowers.git",
+        "ref": "051c434d6bab69457bc9845f8d8fe4d0c1f925fe"
       },
       "description": "Core skills library: TDD, debugging, collaboration patterns, and proven techniques",
       "version": "6.2.0",
